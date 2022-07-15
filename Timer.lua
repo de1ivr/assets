@@ -152,3 +152,5 @@ function Timer.Clear(id)
 		end
 	end
 end
+
+return Timer
